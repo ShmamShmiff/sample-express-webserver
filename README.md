@@ -5,7 +5,7 @@ https://nodejs.org/en/download/
 
 Start the server by locating the directory and typing
 ```
-cd <path/to/repo>  
+cd <path/to/repo>  //to locate git repo directory
 ```
 ``` 
 node index.js   //starts the server at localhost:8080
