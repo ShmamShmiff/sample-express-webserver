@@ -10,3 +10,5 @@ cd <path/to/directory>
 ``` 
 node index.js   //starts the server at localhost:8080
 ```
+
+Go to http://localhost:8080
