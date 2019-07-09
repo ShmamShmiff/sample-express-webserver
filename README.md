@@ -5,8 +5,8 @@ https://nodejs.org/en/download/
 
 Start the server by locating the directory and typing
 ```
-cd <path/to/directory>
+cd <path/to/directory>  
 ```
 ``` 
-node index.js
+node index.js   //starts the server at localhost:8080
 ```
